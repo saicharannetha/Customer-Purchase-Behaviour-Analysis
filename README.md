@@ -1,5 +1,5 @@
 # 🛍 Customer Shopping Behavior Analytics Dashboard
-
+cbs.png
 ## 📖 Overview  
 This project presents a **Customer Shopping Behavior Analytics Dashboard** built using **Power BI** and **SQL**, based on real-world retail purchase data.  
 The analysis explores **customer demographics**, **purchasing patterns**, **discount impact**, **product categories**, and **payment preferences**.  
