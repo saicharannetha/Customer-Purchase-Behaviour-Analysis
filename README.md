@@ -110,6 +110,4 @@ This dashboard demonstrates skills in:
 - **SQL** – Data cleaning, transformation, and exploration  
 - **Excel / Power Query** – Data preprocessing and shaping  
 
----
 
-## 📂 Repository Structure  
