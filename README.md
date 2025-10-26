@@ -1,4 +1,4 @@
-# 🛍 Customer Shopping Behavior Analytics Dashboard
+# 🛍 Customer Purchase Behaviour Analysis
 ![cbs.png](https://github.com/saicharannetha/Customer-behavior-analysis/blob/main/cbs.png)
 ## 📖 Overview  
 This project presents a **Customer Shopping Behavior Analytics Dashboard** built using **Power BI** and **SQL**, based on real-world retail purchase data.  
